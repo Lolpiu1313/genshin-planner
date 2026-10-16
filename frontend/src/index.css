@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Newsreader", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --color-paper: #f3efe6;
+  --color-sheet: #faf8f2;
+  --color-ink: #1f1d18;
+  --color-ink-2: #555046;
+  --color-ink-3: #8a8476;
+  --color-rule: #ddd6c6;
+  --color-rule-strong: #bfb6a2;
+  --color-mark: #a8741f;
+  --color-good: #2f6b4f;
+  --color-warn: #8f5f10;
+  --color-bad: #a3402c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-paper: #14130f;
+    --color-sheet: #1b1a15;
+    --color-ink: #ebe5d6;
+    --color-ink-2: #b5ae9d;
+    --color-ink-3: #827c6d;
+    --color-rule: #2f2d25;
+    --color-rule-strong: #4a463b;
+    --color-mark: #b8862f;
+    --color-good: #74c095;
+    --color-warn: #d9a54a;
+    --color-bad: #e07a62;
+  }
+}
+
+body {
+  @apply bg-paper font-sans text-ink antialiased;
+}
+
+@layer components {
+  .label {
+    @apply text-[11px] font-medium tracking-[0.08em] text-ink-3 uppercase;
+  }
+  .num {
+    @apply font-mono tabular-nums;
+  }
+  .field {
+    @apply rounded-[3px] border border-rule-strong bg-sheet px-2.5 py-1.5 text-sm text-ink focus:border-ink focus:outline-none;
+  }
+  .btn {
+    @apply inline-flex items-center gap-2 rounded-[3px] bg-ink px-3.5 py-1.5 text-sm font-medium text-paper hover:bg-ink-2 disabled:opacity-40;
+  }
+  .btn-quiet {
+    @apply inline-flex items-center gap-2 rounded-[3px] border border-rule-strong px-3 py-1.5 text-sm text-ink hover:border-ink disabled:opacity-40;
+  }
+  .link {
+    @apply text-ink underline decoration-rule-strong underline-offset-4 hover:decoration-ink;
+  }
+  .error {
+    @apply border-l-2 border-bad pl-3 text-sm text-bad;
+  }
+}

@@ -1,0 +1,1986 @@
+[
+  {
+    "id": 10000005,
+    "name": "Aether",
+    "element": "None",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 212.397192,
+      "def": 682.521525
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000121,
+    "name": "Aino",
+    "element": "Hydro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11201.1621003,
+      "atk": 242.13280088,
+      "def": 607.44415725
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000038,
+    "name": "Albedo",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13225.583558400001,
+      "atk": 251.13729899999998,
+      "def": 876.1519817999999
+    },
+    "ascension": {
+      "stat": "Geo DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000078,
+    "name": "Alhaitham",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13348.0427932,
+      "atk": 313.3236758,
+      "def": 781.6197942900001
+    },
+    "ascension": {
+      "stat": "Dendro DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000062,
+    "name": "Aloy",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 10898.8604972,
+      "atk": 233.91645604,
+      "def": 676.3278456
+    },
+    "ascension": {
+      "stat": "Cryo DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000148,
+    "name": "Alyosha",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 11962.4064649,
+      "atk": 265.49649,
+      "def": 702.99717075
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.2667
+    }
+  },
+  {
+    "id": 10000021,
+    "name": "Amber",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9461.1761118,
+      "atk": 223.0170516,
+      "def": 600.6189420000001
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000057,
+    "name": "Arataki Itto",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12858.206654000001,
+      "atk": 227.21946100000002,
+      "def": 959.15585376
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000096,
+    "name": "Arlecchino",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 13103.1246236,
+      "atk": 342.0250874,
+      "def": 764.7115981500001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000082,
+    "name": "Baizhu",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 13348.0427932,
+      "atk": 192.53859490000002,
+      "def": 499.56034050000005
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000014,
+    "name": "Barbara",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9787.4235531,
+      "atk": 159.29789399999999,
+      "def": 668.8710945
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000024,
+    "name": "Beidou",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 13049.897870800001,
+      "atk": 225.14102152,
+      "def": 648.39544875
+    },
+    "ascension": {
+      "stat": "Electro DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000032,
+    "name": "Bennett",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 12397.4035882,
+      "atk": 191.15747280000002,
+      "def": 771.2493232500001
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.2667
+    }
+  },
+  {
+    "id": 10000072,
+    "name": "Candace",
+    "element": "Hydro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 212.397192,
+      "def": 682.521525
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000088,
+    "name": "Charlotte",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 10766.1657119,
+      "atk": 173.10371048,
+      "def": 546.01722
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000104,
+    "name": "Chasca",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 9796.728784,
+      "atk": 346.808651,
+      "def": 614.843496
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000090,
+    "name": "Chevreuse",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 11962.4064649,
+      "atk": 193.28144472,
+      "def": 604.71407115
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000094,
+    "name": "Chiori",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 11437.6807651,
+      "atk": 322.89081300000004,
+      "def": 953.0074188000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000036,
+    "name": "Chongyun",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 10983.66434006,
+      "atk": 223.0170516,
+      "def": 648.39544875
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000107,
+    "name": "Citlali",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 11633.615306000002,
+      "atk": 126.76454140000001,
+      "def": 763.17448941
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 115.2
+    }
+  },
+  {
+    "id": 10000098,
+    "name": "Clorinde",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12956.173074450002,
+      "atk": 337.2415138,
+      "def": 783.9254574000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000067,
+    "name": "Collei",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9787.4235531,
+      "atk": 199.65335947999998,
+      "def": 600.6189420000001
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000125,
+    "name": "Columbina",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 14695.093175999998,
+      "atk": 95.67135200000001,
+      "def": 514.9314279
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000071,
+    "name": "Cyno",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12490.8290496,
+      "atk": 318.1072494,
+      "def": 859.24378566
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000115,
+    "name": "Dahlia",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 12506.152435299999,
+      "atk": 189.03350088000002,
+      "def": 559.6676505
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000079,
+    "name": "Dehya",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 15674.765654400002,
+      "atk": 265.4879998,
+      "def": 627.90892029
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000016,
+    "name": "Diluc",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12980.665588799999,
+      "atk": 334.849732,
+      "def": 783.9254574000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000039,
+    "name": "Diona",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9569.925258899999,
+      "atk": 212.397192,
+      "def": 600.6189420000001
+    },
+    "ascension": {
+      "stat": "Cryo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000068,
+    "name": "Dori",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 12397.4035882,
+      "atk": 223.0170516,
+      "def": 723.4728165
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000123,
+    "name": "Durin",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12429.5994322,
+      "atk": 346.808651,
+      "def": 822.3531759000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000099,
+    "name": "Emilie",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 13568.469685400001,
+      "atk": 334.849732,
+      "def": 730.1266515000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000112,
+    "name": "Escoffier",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 13348.0427932,
+      "atk": 346.808651,
+      "def": 731.66376024
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000051,
+    "name": "Eula",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 13225.583558400001,
+      "atk": 342.0250874,
+      "def": 750.87761949
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000076,
+    "name": "Faruzan",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9569.925258899999,
+      "atk": 196.4674026,
+      "def": 627.919803
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000031,
+    "name": "Fischl",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9189.3029266,
+      "atk": 244.25677079999997,
+      "def": 593.79372675
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000120,
+    "name": "Flins",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12490.8290496,
+      "atk": 351.5922196,
+      "def": 808.51919724
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000085,
+    "name": "Freminet",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 12071.155412,
+      "atk": 254.87663039999998,
+      "def": 708.45734295
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000089,
+    "name": "Furina",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 15307.388350000001,
+      "atk": 243.96194960000003,
+      "def": 695.5417048500001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000092,
+    "name": "Gaming",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11418.66071195,
+      "atk": 301.60400863999996,
+      "def": 702.99717075
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000037,
+    "name": "Ganyu",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 9796.728784,
+      "atk": 334.849732,
+      "def": 630.2145834
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000055,
+    "name": "Gorou",
+    "element": "Geo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9569.925258899999,
+      "atk": 182.66158612,
+      "def": 648.39544875
+    },
+    "ascension": {
+      "stat": "Geo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000046,
+    "name": "Hu Tao",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 15552.3066196,
+      "atk": 106.4343801,
+      "def": 876.1519817999999
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000110,
+    "name": "Iansan",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 10657.416864800001,
+      "atk": 257.00060032,
+      "def": 638.157625875
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000113,
+    "name": "Ifa",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 10081.0465747,
+      "atk": 178.41364328,
+      "def": 605.396592675
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000127,
+    "name": "Illuga",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 11962.4064649,
+      "atk": 191.15747280000002,
+      "def": 813.5656577999999
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000116,
+    "name": "Ineffa",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12613.288084400001,
+      "atk": 330.06616240000005,
+      "def": 827.7330564900001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000124,
+    "name": "Jahoda",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9646.0494514,
+      "atk": 223.0170516,
+      "def": 580.14329625
+    },
+    "ascension": {
+      "stat": "Healing Bonus",
+      "value": 0.1846
+    }
+  },
+  {
+    "id": 10000003,
+    "name": "Jean",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 14695.093175999998,
+      "atk": 239.17838000000003,
+      "def": 768.5543700000001
+    },
+    "ascension": {
+      "stat": "Healing Bonus",
+      "value": 0.2215
+    }
+  },
+  {
+    "id": 10000100,
+    "name": "Kachina",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 11799.2822268,
+      "atk": 216.64513184,
+      "def": 792.4074905250001
+    },
+    "ascension": {
+      "stat": "Geo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000047,
+    "name": "Kaedehara Kazuha",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13348.0427932,
+      "atk": 296.58119320000003,
+      "def": 806.9820885
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 115.2
+    }
+  },
+  {
+    "id": 10000015,
+    "name": "Kaeya",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 11636.1591236,
+      "atk": 223.0170516,
+      "def": 791.724969
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.2667
+    }
+  },
+  {
+    "id": 10000002,
+    "name": "Kamisato Ayaka",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12858.206654000001,
+      "atk": 342.0250874,
+      "def": 783.9254574000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000066,
+    "name": "Kamisato Ayato",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13715.4200976,
+      "atk": 298.972975,
+      "def": 768.5543700000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000081,
+    "name": "Kaveh",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11962.4064649,
+      "atk": 233.6369112,
+      "def": 750.7736775
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000042,
+    "name": "Keqing",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13103.1246236,
+      "atk": 322.89081300000004,
+      "def": 799.2965448000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000101,
+    "name": "Kinich",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12858.206654000001,
+      "atk": 332.4579502,
+      "def": 801.6022079100001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000061,
+    "name": "Kirara",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 12179.90470957,
+      "atk": 223.0170516,
+      "def": 546.01722
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000029,
+    "name": "Klee",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10286.5650232,
+      "atk": 310.931894,
+      "def": 614.843496
+    },
+    "ascension": {
+      "stat": "Pyro DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000056,
+    "name": "Kujou Sara",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9569.925258899999,
+      "atk": 195.40541564,
+      "def": 627.919803
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000065,
+    "name": "Kuki Shinobu",
+    "element": "Electro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 12288.654441100001,
+      "atk": 212.397192,
+      "def": 750.7736775
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000108,
+    "name": "Lan Yan",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9243.67751666,
+      "atk": 250.62869056,
+      "def": 580.14329625
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000119,
+    "name": "Lauma",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10653.9424276,
+      "atk": 254.96415188000003,
+      "def": 668.6423019
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 115.2
+    }
+  },
+  {
+    "id": 10000074,
+    "name": "Layla",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 11092.4131532,
+      "atk": 216.64513184,
+      "def": 655.2206639999999
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000130,
+    "name": "Linnea",
+    "element": "Geo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 9894.69552967,
+      "atk": 143.50702800000002,
+      "def": 906.8941566000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000006,
+    "name": "Lisa",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9569.925258899999,
+      "atk": 231.51293628000002,
+      "def": 573.3180810000001
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000129,
+    "name": "Lohen",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12858.206654000001,
+      "atk": 344.4168692,
+      "def": 783.9254574000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000007,
+    "name": "Lumine",
+    "element": "None",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 212.397192,
+      "def": 682.521525
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000083,
+    "name": "Lynette",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 12397.4035882,
+      "atk": 231.51293628000002,
+      "def": 711.869957273
+    },
+    "ascension": {
+      "stat": "Anemo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000084,
+    "name": "Lyney",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 11021.319632000002,
+      "atk": 318.1072494,
+      "def": 537.988059
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000117,
+    "name": "Manekin",
+    "element": "None",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 212.397192,
+      "def": 682.521525
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000118,
+    "name": "Manekina",
+    "element": "None",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 212.397192,
+      "def": 682.521525
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000106,
+    "name": "Mavuika",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12552.058567,
+      "atk": 358.76757,
+      "def": 791.6110011000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000080,
+    "name": "Mika",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 12506.152435299999,
+      "atk": 223.0170516,
+      "def": 713.234993625
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000041,
+    "name": "Mona",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10409.023958000002,
+      "atk": 287.01405600000004,
+      "def": 653.2712145
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.32
+    }
+  },
+  {
+    "id": 10000102,
+    "name": "Mualani",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 15184.929315200003,
+      "atk": 181.7755668,
+      "def": 570.26734254
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000073,
+    "name": "Nahida",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10360.0405293,
+      "atk": 298.972975,
+      "def": 630.2145834
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 115.2
+    }
+  },
+  {
+    "id": 10000091,
+    "name": "Navia",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12650.02580006,
+      "atk": 351.5922196,
+      "def": 793.1481098400001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000122,
+    "name": "Nefer",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 12703.9082338,
+      "atk": 344.4168692,
+      "def": 799.2965448000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000087,
+    "name": "Neuvillette",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 14695.093175999998,
+      "atk": 208.32436678,
+      "def": 576.4157775000001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000131,
+    "name": "Nicole",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10409.023958000002,
+      "atk": 342.0250874,
+      "def": 562.58179884
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000070,
+    "name": "Nilou",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 15184.929315200003,
+      "atk": 229.6112428,
+      "def": 728.5895427600001
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000027,
+    "name": "Ningguang",
+    "element": "Geo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9787.4235531,
+      "atk": 212.397192,
+      "def": 573.3180810000001
+    },
+    "ascension": {
+      "stat": "Geo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000034,
+    "name": "Noelle",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 12071.155412,
+      "atk": 191.15747280000002,
+      "def": 798.55018425
+    },
+    "ascension": {
+      "stat": "DEF",
+      "value": 0.3
+    }
+  },
+  {
+    "id": 10000150,
+    "name": "Odette",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12980.665588799999,
+      "atk": 334.849732,
+      "def": 786.99967488
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000105,
+    "name": "Ororon",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9243.67751666,
+      "atk": 244.25677079999997,
+      "def": 586.9685115000001
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000132,
+    "name": "Prune",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9678.674406,
+      "atk": 220.89308168000002,
+      "def": 580.14329625
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000035,
+    "name": "Qiqi",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12368.369914800001,
+      "atk": 287.01405600000004,
+      "def": 922.2652440000002
+    },
+    "ascension": {
+      "stat": "Healing Bonus",
+      "value": 0.2215
+    }
+  },
+  {
+    "id": 10000052,
+    "name": "Raiden Shogun",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12907.189733140001,
+      "atk": 337.2415138,
+      "def": 789.30533799
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.32
+    }
+  },
+  {
+    "id": 10000020,
+    "name": "Razor",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11962.4064649,
+      "atk": 233.6369112,
+      "def": 750.7736775
+    },
+    "ascension": {
+      "stat": "Physical DMG Bonus",
+      "value": 0.3
+    }
+  },
+  {
+    "id": 10000045,
+    "name": "Rosaria",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 12288.654441100001,
+      "atk": 240.00882496,
+      "def": 709.822386
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000133,
+    "name": "Sandrone",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 13225.583558400001,
+      "atk": 342.0250874,
+      "def": 752.41472823
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000054,
+    "name": "Sangonomiya Kokomi",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 13470.501828000002,
+      "atk": 234.39481640000002,
+      "def": 657.11398635
+    },
+    "ascension": {
+      "stat": "Hydro DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000053,
+    "name": "Sayu",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11853.657417800001,
+      "atk": 244.25677079999997,
+      "def": 744.630992124
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000097,
+    "name": "Sethos",
+    "element": "Electro",
+    "weapon": "Bow",
+    "rarity": 4,
+    "base": {
+      "hp": 9787.4235531,
+      "atk": 227.26499543999998,
+      "def": 559.6676505
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000063,
+    "name": "Shenhe",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12992.91143967,
+      "atk": 303.7565386,
+      "def": 830.0387196
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000059,
+    "name": "Shikanoin Heizou",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 10657.416864800001,
+      "atk": 225.14102152,
+      "def": 683.88656805
+    },
+    "ascension": {
+      "stat": "Anemo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000095,
+    "name": "Sigewinne",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 13348.0427932,
+      "atk": 192.53859490000002,
+      "def": 499.56034050000005
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000114,
+    "name": "Skirk",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12417.353843500001,
+      "atk": 358.76757,
+      "def": 806.21353413
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000043,
+    "name": "Sucrose",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9243.67751666,
+      "atk": 169.9177536,
+      "def": 702.99717075
+    },
+    "ascension": {
+      "stat": "Anemo DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000033,
+    "name": "Tartaglia",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 13103.1246236,
+      "atk": 301.3647568,
+      "def": 814.6676322000001
+    },
+    "ascension": {
+      "stat": "Hydro DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000050,
+    "name": "Thoma",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 10331.1695235,
+      "atk": 201.77733240000003,
+      "def": 750.7736775
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000069,
+    "name": "Tighnari",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 10849.87711806,
+      "atk": 267.8797916,
+      "def": 630.2145834
+    },
+    "ascension": {
+      "stat": "Dendro DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000111,
+    "name": "Varesa",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 12699.00924137,
+      "atk": 356.3757822,
+      "def": 781.6197942900001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000128,
+    "name": "Varka",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "rarity": 5,
+    "base": {
+      "hp": 12613.288084400001,
+      "atk": 352.78811550000006,
+      "def": 795.45377295
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000022,
+    "name": "Venti",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 10531.4833928,
+      "atk": 263.096218,
+      "def": 668.6423019
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.32
+    }
+  },
+  {
+    "id": 10000143,
+    "name": "Vesna",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 13262.3220984,
+      "atk": 353.9840004,
+      "def": 730.1266515000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000140,
+    "name": "Vodyanitsa",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 14817.552110800001,
+      "atk": 107.630271,
+      "def": 484.18925310000003
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000075,
+    "name": "Wanderer",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10164.105888400001,
+      "atk": 327.6743806,
+      "def": 607.1579523
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000086,
+    "name": "Wriothesley",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 13592.9609628,
+      "atk": 310.931894,
+      "def": 763.17448941
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  },
+  {
+    "id": 10000023,
+    "name": "Xiangling",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 10874.914859,
+      "atk": 225.14102152,
+      "def": 668.8710945
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 96
+    }
+  },
+  {
+    "id": 10000093,
+    "name": "Xianyun",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10409.023958000002,
+      "atk": 334.849732,
+      "def": 572.57300565
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000026,
+    "name": "Xiao",
+    "element": "Anemo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 12735.747219200002,
+      "atk": 349.20043780000003,
+      "def": 799.2965448000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000103,
+    "name": "Xilonen",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12405.10724307,
+      "atk": 275.05513700000006,
+      "def": 929.9507877000001
+    },
+    "ascension": {
+      "stat": "DEF",
+      "value": 0.36
+    }
+  },
+  {
+    "id": 10000025,
+    "name": "Xingqiu",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "rarity": 4,
+    "base": {
+      "hp": 10222.420242440001,
+      "atk": 201.77733240000003,
+      "def": 757.5988927500001
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000044,
+    "name": "Xinyan",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "rarity": 4,
+    "base": {
+      "hp": 11201.1621003,
+      "atk": 248.50471064000004,
+      "def": 798.55018425
+    },
+    "ascension": {
+      "stat": "ATK",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000058,
+    "name": "Yae Miko",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 10372.286467560001,
+      "atk": 339.6332956,
+      "def": 568.7302338000001
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000048,
+    "name": "Yanfei",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "rarity": 4,
+    "base": {
+      "hp": 9352.42703074,
+      "atk": 240.00882496,
+      "def": 586.9685115000001
+    },
+    "ascension": {
+      "stat": "Pyro DMG Bonus",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000077,
+    "name": "Yaoyao",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 12288.654441100001,
+      "atk": 212.397192,
+      "def": 750.7736775
+    },
+    "ascension": {
+      "stat": "HP",
+      "value": 0.24
+    }
+  },
+  {
+    "id": 10000060,
+    "name": "Yelan",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 14450.174906400001,
+      "atk": 243.96194960000003,
+      "def": 547.97926581
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000049,
+    "name": "Yoimiya",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "rarity": 5,
+    "base": {
+      "hp": 10164.105888400001,
+      "atk": 322.89081300000004,
+      "def": 614.843496
+    },
+    "ascension": {
+      "stat": "CRIT Rate",
+      "value": 0.242
+    }
+  },
+  {
+    "id": 10000109,
+    "name": "Yumemizuki Mizuki",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "rarity": 5,
+    "base": {
+      "hp": 12735.747219200002,
+      "atk": 215.260542,
+      "def": 757.0260544500001
+    },
+    "ascension": {
+      "stat": "Elemental Mastery",
+      "value": 115.2
+    }
+  },
+  {
+    "id": 10000064,
+    "name": "Yun Jin",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 4,
+    "base": {
+      "hp": 10657.416864800001,
+      "atk": 191.15747280000002,
+      "def": 734.3931609000001
+    },
+    "ascension": {
+      "stat": "Energy Recharge",
+      "value": 0.2667
+    }
+  },
+  {
+    "id": 10000030,
+    "name": "Zhongli",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "rarity": 5,
+    "base": {
+      "hp": 14695.093175999998,
+      "atk": 251.137289,
+      "def": 737.8121952
+    },
+    "ascension": {
+      "stat": "Geo DMG Bonus",
+      "value": 0.288
+    }
+  },
+  {
+    "id": 10000126,
+    "name": "Zibai",
+    "element": "Geo",
+    "weapon": "Sword",
+    "rarity": 5,
+    "base": {
+      "hp": 12919.435971400002,
+      "atk": 224.82766920000003,
+      "def": 956.8501906500001
+    },
+    "ascension": {
+      "stat": "CRIT DMG",
+      "value": 0.884
+    }
+  }
+]

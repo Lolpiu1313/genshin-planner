@@ -1,0 +1,9512 @@
+{
+  "aino": [
+    {
+      "id": "aino_reaction_support",
+      "name": "REACTION SUPPORT",
+      "role": "REACTION SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Skill"
+      ]
+    }
+  ],
+  "albedo": [
+    {
+      "id": "albedo_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "husk_of_opulent_dreams",
+          "archaic_petra",
+          "golden_troupe"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus",
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%",
+        "Energy Recharge",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "alhaitham": [
+    {
+      "id": "alhaitham_spread_dps",
+      "name": "SPREAD DPS",
+      "role": "SPREAD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "deepwood_memories",
+          "emblem_of_severed_fate",
+          "80elementalmastery_set"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    }
+  ],
+  "aloy": [
+    {
+      "id": "aloy_burst_support",
+      "name": "BURST SUPPORT",
+      "role": "BURST SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "noblesse_oblige",
+          "blizzard_strayer"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "blizzard_strayer",
+          "80elementalmastery_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "alyosha": [
+    {
+      "id": "alyosha_stellarconduct_support",
+      "name": "Stellar-Conduct Support",
+      "role": "Support / Sub-DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "ATK",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "alyosha_stellarconduct_support_build",
+      "name": "Stellar-Conduct Support Build",
+      "role": "<element type=\"electro\">Electro</element> off-field Sub-DPS / <stat>ATK</stat> buffer / healer",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "ATK",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "amber": [
+    {
+      "id": "amber_melt_dps",
+      "name": "MELT DPS",
+      "role": "MELT DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "80elementalmastery_set",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    },
+    {
+      "id": "amber_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "the_exile"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "arataki_itto": [
+    {
+      "id": "arataki_itto_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "retracing_bolide"
+        ],
+        [
+          "husk_of_opulent_dreams",
+          "archaic_petra",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "arlecchino": [
+    {
+      "id": "arlecchino_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "fragment_of_harmonic_whimsy"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "18atk_set",
+          "crimson_witch_of_flames",
+          "marechaussee_hunter"
+        ],
+        [
+          "echoes_of_an_offering"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "baizhu": [
+    {
+      "id": "baizhu_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith",
+          "vourukashas_glow",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "HP",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "barbara": [
+    {
+      "id": "barbara_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "15healingbonus_set",
+          "20hp_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "barbara_bloom_dps",
+      "name": "BLOOM DPS",
+      "role": "BLOOM DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "oceanhued_clam"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "beidou": [
+    {
+      "id": "beidou_offfield_aggravate_dps",
+      "name": "OFF-FIELD AGGRAVATE DPS",
+      "role": "OFF-FIELD AGGRAVATE DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "thundering_fury",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "bennett": [
+    {
+      "id": "bennett_support",
+      "name": "SUPPORT",
+      "role": "SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "HP%",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus",
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT",
+        "HP%",
+        "ATK%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "bennett_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "candace": [
+    {
+      "id": "candace_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "15hydrodmg_set",
+          "noblesse_oblige",
+          "20hp_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%",
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "charlotte": [
+    {
+      "id": "charlotte_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "18atk_set",
+          "15healingbonus_set"
+        ],
+        [
+          "maiden_beloved"
+        ],
+        [
+          "blizzard_strayer"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "ATK",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "chasca": [
+    {
+      "id": "chasca_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "chevreuse": [
+    {
+      "id": "chevreuse_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "20hp_set",
+          "15healingbonus_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "maiden_beloved"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "chevreuse_buff_support_damage",
+      "name": "BUFF SUPPORT & DAMAGE",
+      "role": "BUFF SUPPORT & DAMAGE",
+      "recommended": false,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "noblesse_oblige",
+          "golden_troupe",
+          "crimson_witch_of_flames",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "chiori": [
+    {
+      "id": "chiori_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "golden_troupe",
+          "archaic_petra",
+          "husk_of_opulent_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "chongyun": [
+    {
+      "id": "chongyun_burst_nuke",
+      "name": "BURST NUKE",
+      "role": "BURST NUKE",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "blizzard_strayer"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "noblesse_oblige",
+          "blizzard_strayer",
+          "80elementalmastery_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "chongyun_infusion_support",
+      "name": "INFUSION SUPPORT",
+      "role": "INFUSION SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "citlali": [
+    {
+      "id": "citlali_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "clorinde": [
+    {
+      "id": "clorinde_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "fragment_of_harmonic_whimsy"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "thundering_fury"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "collei": [
+    {
+      "id": "collei_reaction_support",
+      "name": "REACTION SUPPORT",
+      "role": "REACTION SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "gilded_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "columbina": [
+    {
+      "id": "columbina_high_energy_requirement_offfield_dps_buff_support",
+      "name": "HIGH ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT",
+      "role": "HIGH ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "aubade_of_morningstar_and_moon"
+        ],
+        [
+          "20hp_set",
+          "80elementalmastery_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "columbina_low_energy_requirement_offfield_dps_buff_support",
+      "name": "LOW ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT",
+      "role": "LOW ENERGY REQUIREMENT\n\nOFF-FIELD DPS & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "aubade_of_morningstar_and_moon"
+        ],
+        [
+          "20hp_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "cyno": [
+    {
+      "id": "cyno_quickbloom_hyperbloom_dps",
+      "name": "QUICKBLOOM / HYPERBLOOM DPS",
+      "role": "QUICKBLOOM / HYPERBLOOM DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "thundering_fury"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set",
+          "thundering_fury"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "cyno_aggravate_dps",
+      "name": "AGGRAVATE DPS",
+      "role": "AGGRAVATE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "thundering_fury"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "18atk_set",
+          "thundering_fury",
+          "emblem_of_severed_fate",
+          "80elementalmastery_set"
+        ],
+        [
+          "thundersoother"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "dahlia": [
+    {
+      "id": "dahlia_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "20hp_set",
+          "20hp_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "dehya": [
+    {
+      "id": "dehya_on_field_dps",
+      "name": "ON FIELD DPS",
+      "role": "ON FIELD DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "vourukashas_glow"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "noblesse_oblige",
+          "18atk_set"
+        ],
+        [
+          "unfinished_reverie"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "dehya_support",
+      "name": "SUPPORT",
+      "role": "SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "20hp_set",
+          "20hp_set"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "dehya_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "HP%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "diluc": [
+    {
+      "id": "diluc_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "diona": [
+    {
+      "id": "diona_heal_shield_support",
+      "name": "HEAL & SHIELD SUPPORT",
+      "role": "HEAL & SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "20hp_set",
+          "20hp_set",
+          "emblem_of_severed_fate",
+          "15healingbonus_set"
+        ],
+        [
+          "maiden_beloved"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "dori": [
+    {
+      "id": "dori_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "the_exile"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "HP%",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "Energy Recharge",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "durin": [
+    {
+      "id": "durin_vaporize_melt_offfield_dps",
+      "name": "VAPORIZE / MELT OFF-FIELD DPS",
+      "role": "VAPORIZE / MELT OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "durin_buff_support_offfield_dps",
+      "name": "BUFF SUPPORT & OFF-FIELD DPS",
+      "role": "BUFF SUPPORT & OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "celestial_gift"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "emilie": [
+    {
+      "id": "emilie_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "unfinished_reverie"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "deepwood_memories",
+          "golden_troupe",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "escoffier": [
+    {
+      "id": "escoffier_high_energy_requirement_offfield_dps",
+      "name": "HIGH ENERGY REQUIREMENT (OFF-FIELD DPS)",
+      "role": "HIGH ENERGY REQUIREMENT (OFF-FIELD DPS)",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "golden_troupe",
+          "15_cryo_dmg_set",
+          "18atk_set",
+          "20energyrecharge_set"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "eula": [
+    {
+      "id": "eula_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "pale_flame"
+        ],
+        [
+          "pale_flame",
+          "bloodstained_chivalry"
+        ],
+        [
+          "pale_flame",
+          "bloodstained_chivalry",
+          "18atk_set"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "18atk_set",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Physical DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Energy Recharge",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "faruzan": [
+    {
+      "id": "faruzan_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "fischl": [
+    {
+      "id": "fischl_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "golden_troupe",
+          "thundering_fury"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "18atk_set",
+          "thundering_fury",
+          "golden_troupe"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "fischl_offfield_aggravate_dps",
+      "name": "OFF-FIELD AGGRAVATE DPS",
+      "role": "OFF-FIELD AGGRAVATE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "18atk_set",
+          "80elementalmastery_set",
+          "thundering_fury",
+          "golden_troupe"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "thundersoother"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "flins": [
+    {
+      "id": "flins_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "night_of_the_skys_unveiling"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "18atk_set",
+          "80elementalmastery_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "freminet": [
+    {
+      "id": "freminet_physical_dps",
+      "name": "PHYSICAL DPS",
+      "role": "PHYSICAL DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "pale_flame"
+        ],
+        [
+          "pale_flame",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "25physicaldmg_set",
+          "and5_physical_dmg_set",
+          "golden_troupe",
+          "18atk_set"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Physical DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    },
+    {
+      "id": "freminet_cryo_dps",
+      "name": "CRYO DPS",
+      "role": "CRYO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "golden_troupe"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    }
+  ],
+  "furina": [
+    {
+      "id": "furina_offfield_dps_buff_support",
+      "name": "OFF-FIELD DPS & BUFF SUPPORT",
+      "role": "OFF-FIELD DPS & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "15hydrodmg_set",
+          "golden_troupe",
+          "20hp_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%",
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "Crit DMG",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "gaming": [
+    {
+      "id": "gaming_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "long_nights_oath"
+        ],
+        [
+          "gilded_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "ganyu": [
+    {
+      "id": "ganyu_melt_dps",
+      "name": "MELT DPS",
+      "role": "MELT DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "unfinished_reverie"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    },
+    {
+      "id": "ganyu_freeze_dps",
+      "name": "FREEZE DPS",
+      "role": "FREEZE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "noblesse_oblige"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    },
+    {
+      "id": "ganyu_mono_cryo_dps",
+      "name": "MONO CRYO DPS",
+      "role": "MONO CRYO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "gorou": [
+    {
+      "id": "gorou_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "the_exile"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "silken_moons_serenade"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "silken_moons_serenade"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "DEF%",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus",
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "DEF%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "hu_tao": [
+    {
+      "id": "hu_tao_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "80elementalmastery_set",
+          "20hp_set"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "HP%",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "iansan": [
+    {
+      "id": "iansan_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "ifa": [
+    {
+      "id": "ifa_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "obsidian_codex"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "ifa_anemo_dps",
+      "name": "ANEMO DPS",
+      "role": "ANEMO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "illuga": [
+    {
+      "id": "illuga_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "ineffa": [
+    {
+      "id": "ineffa_offfield_dps_buff_shield_support",
+      "name": "OFF-FIELD DPS & BUFF & SHIELD SUPPORT",
+      "role": "OFF-FIELD DPS & BUFF & SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "aubade_of_morningstar_and_moon"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "18atk_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "jahoda": [
+    {
+      "id": "jahoda_offfield_reaction_dps_heal_support",
+      "name": "OFF-FIELD REACTION DPS & HEAL SUPPORT",
+      "role": "OFF-FIELD REACTION DPS & HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "jean": [
+    {
+      "id": "jean_heal_support_damage",
+      "name": "HEAL SUPPORT & DAMAGE",
+      "role": "HEAL SUPPORT & DAMAGE",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "noblesse_oblige",
+          "15anemodmg_set",
+          "18atk_set"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "jean_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kachina": [
+    {
+      "id": "kachina_buff_reaction_support",
+      "name": "BUFF & REACTION SUPPORT",
+      "role": "BUFF & REACTION SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus",
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kaedehara_kazuha": [
+    {
+      "id": "kaedehara_kazuha_reaction_dps_buff_support",
+      "name": "REACTION DPS & BUFF SUPPORT",
+      "role": "REACTION DPS & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "thundering_fury"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "NA"
+      ]
+    }
+  ],
+  "kaeya": [
+    {
+      "id": "kaeya_freeze_mono_cryo",
+      "name": "FREEZE / MONO CRYO",
+      "role": "FREEZE / MONO CRYO",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "15_cryo_dmg_set",
+          "18atk_set",
+          "noblesse_oblige"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    },
+    {
+      "id": "kaeya_reverse_melt",
+      "name": "REVERSE MELT",
+      "role": "REVERSE MELT",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "15_cryo_dmg_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kamisato_ayaka": [
+    {
+      "id": "kamisato_ayaka_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set"
+        ],
+        [
+          "18atk_set",
+          "18atk_set"
+        ],
+        [
+          "blizzard_strayer",
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "ATK%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    }
+  ],
+  "kamisato_ayato": [
+    {
+      "id": "kamisato_ayato_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "heart_of_depth"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "nymphs_dream"
+        ],
+        [
+          "15hydrodmg_set",
+          "18atk_set"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "HP%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kaveh": [
+    {
+      "id": "kaveh_bloom_burgeon_driver",
+      "name": "BLOOM / BURGEON DRIVER",
+      "role": "BLOOM / BURGEON DRIVER",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "gilded_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    }
+  ],
+  "keqing": [
+    {
+      "id": "keqing_aggravate_dps",
+      "name": "AGGRAVATE DPS",
+      "role": "AGGRAVATE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "thundering_fury"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury",
+          "80elementalmastery_set",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "keqing_quickbloom_dps",
+      "name": "QUICKBLOOM DPS",
+      "role": "QUICKBLOOM DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "thundering_fury"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury",
+          "80elementalmastery_set",
+          "18atk_set"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "kinich": [
+    {
+      "id": "kinich_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "unfinished_reverie"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "deepwood_memories",
+          "18atk_set",
+          "golden_troupe"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kirara": [
+    {
+      "id": "kirara_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "instructor"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "tenacity_of_the_millelith",
+          "vourukashas_glow"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "klee": [
+    {
+      "id": "klee_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "lavawalker"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "18atk_set",
+          "crimson_witch_of_flames",
+          "marechaussee_hunter"
+        ],
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "fragment_of_harmonic_whimsy"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "kujou_sara": [
+    {
+      "id": "kujou_sara_buff_support_damage",
+      "name": "BUFF SUPPORT & DAMAGE",
+      "role": "BUFF SUPPORT & DAMAGE",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "noblesse_oblige",
+          "18atk_set",
+          "thundering_fury",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "kuki_shinobu": [
+    {
+      "id": "kuki_shinobu_hyperbloom",
+      "name": "HYPERBLOOM",
+      "role": "HYPERBLOOM",
+      "recommended": true,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "thundering_fury"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "HP%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "kuki_shinobu_aggravate_offfield_dps",
+      "name": "AGGRAVATE OFF-FIELD DPS",
+      "role": "AGGRAVATE OFF-FIELD DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury",
+          "80elementalmastery_set",
+          "noblesse_oblige"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "HP%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "kuki_shinobu_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor",
+          "the_exile"
+        ],
+        [
+          "oceanhued_clam"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "CRIT Rate",
+        "Elemental Mastery",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lan_yan": [
+    {
+      "id": "lan_yan_shield_buff_support",
+      "name": "SHIELD & BUFF\nSUPPORT",
+      "role": "SHIELD & BUFF\nSUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lauma": [
+    {
+      "id": "lauma_buff_support_highenergy_requirement",
+      "name": "BUFF SUPPORT (HIGH-ENERGY REQUIREMENT)",
+      "role": "BUFF SUPPORT (HIGH-ENERGY REQUIREMENT)",
+      "recommended": true,
+      "sets": [
+        [
+          "silken_moons_serenade"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "night_of_the_skys_unveiling"
+        ],
+        [
+          "gilded_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "layla": [
+    {
+      "id": "layla_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "vourukashas_glow",
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "layla_shield_support_and_damage",
+      "name": "SHIELD SUPPORT AND DAMAGE",
+      "role": "SHIELD SUPPORT AND DAMAGE",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "vourukashas_glow",
+          "tenacity_of_the_millelith",
+          "blizzard_strayer"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus",
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "Crit DMG",
+        "HP%",
+        "ATK%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "linnea": [
+    {
+      "id": "linnea_offfield_dps_buff_and_heal_support",
+      "name": "OFF-FIELD DPS & BUFF AND HEAL SUPPORT",
+      "role": "OFF-FIELD DPS & BUFF AND HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "aubade_of_morningstar_and_moon"
+        ],
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "husk_of_opulent_dreams",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lisa": [
+    {
+      "id": "lisa_aggravate_dps",
+      "name": "AGGRAVATE DPS",
+      "role": "AGGRAVATE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "thundering_fury"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "thundering_fury",
+          "18atk_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "lisa_offfield_dps_support",
+      "name": "OFF-FIELD DPS & SUPPORT",
+      "role": "OFF-FIELD DPS & SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "thundering_fury",
+          "20energyrecharge_set",
+          "18atk_set",
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "lisa_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "emblem_of_severed_fate",
+          "80elementalmastery_set"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lohen": [
+    {
+      "id": "lohen_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "15_cryo_dmg_set",
+          "18atk_set",
+          "marechaussee_hunter"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "Crit DMG",
+        "ATK%",
+        "ATK",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lynette": [
+    {
+      "id": "lynette_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "15anemodmg_set",
+          "20energyrecharge_set",
+          "noblesse_oblige",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "lyney": [
+    {
+      "id": "lyney_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "lavawalker"
+        ],
+        [
+          "vermillion_hereafter"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "marechaussee_hunter",
+          "18atk_set"
+        ],
+        [
+          "retracing_bolide"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "wanderers_troupe"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "mavuika": [
+    {
+      "id": "mavuika_dps_buff_support",
+      "name": "DPS & BUFF SUPPORT",
+      "role": "DPS & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "mika": [
+    {
+      "id": "mika_heal_buff_support",
+      "name": "HEAL & BUFF SUPPORT",
+      "role": "HEAL & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "maiden_beloved"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "15healingbonus_set",
+          "20energyrecharge_set",
+          "20hp_set"
+        ],
+        [
+          "the_exile"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "mona": [
+    {
+      "id": "mona_dps_out_of_date",
+      "name": "DPS\n(OUT OF DATE)",
+      "role": "DPS\n(OUT OF DATE)",
+      "recommended": false,
+      "sets": [
+        [
+          "heart_of_depth"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set",
+          "18atk_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "wanderers_troupe"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    },
+    {
+      "id": "mona_burst_nuke_out_of_date",
+      "name": "BURST NUKE\n(OUT OF DATE)",
+      "role": "BURST NUKE\n(OUT OF DATE)",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set",
+          "18atk_set",
+          "80elementalmastery_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Energy Recharge",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "mona_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "20energyrecharge_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "mualani": [
+    {
+      "id": "mualani_vaporize_dps",
+      "name": "VAPORIZE DPS",
+      "role": "VAPORIZE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "heart_of_depth"
+        ],
+        [
+          "20hp_set",
+          "15hydrodmg_set",
+          "80elementalmastery_set",
+          "marechaussee_hunter"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "HP%",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "nahida": [
+    {
+      "id": "nahida_buff_support_damage",
+      "name": "BUFF SUPPORT & DAMAGE",
+      "role": "BUFF SUPPORT & DAMAGE",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set",
+          "deepwood_memories"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery",
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery",
+          "Dendro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "Crit DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "navia": [
+    {
+      "id": "navia_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "nighttime_whispers_in_the_echoing_woods"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "archaic_petra",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "nefer": [
+    {
+      "id": "nefer_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "night_of_the_skys_unveiling"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "neuvillette": [
+    {
+      "id": "neuvillette_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "heart_of_depth"
+        ],
+        [
+          "15hydrodmg_set",
+          "20hp_set",
+          "marechaussee_hunter"
+        ],
+        [
+          "retracing_bolide"
+        ],
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "nymphs_dream"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus",
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "Crit DMG",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "nicole": [
+    {
+      "id": "nicole_shield_buff_support",
+      "name": "SHIELD & BUFF SUPPORT",
+      "role": "SHIELD & BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "celestial_gift"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "18atk_set",
+          "18atk_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "nilou": [
+    {
+      "id": "nilou_bloom_support",
+      "name": "BLOOM SUPPORT",
+      "role": "BLOOM SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "20hp_set",
+          "20hp_set"
+        ],
+        [
+          "20hp_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "ningguang": [
+    {
+      "id": "ningguang_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "nighttime_whispers_in_the_echoing_woods"
+        ],
+        [
+          "archaic_petra",
+          "noblesse_oblige",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "lavawalker"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    }
+  ],
+  "noelle": [
+    {
+      "id": "noelle_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "retracing_bolide"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Energy Recharge",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "noelle_driver",
+      "name": "DRIVER",
+      "role": "DRIVER",
+      "recommended": true,
+      "sets": [
+        [
+          "archaic_petra"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "DEF%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus",
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Energy Recharge",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    }
+  ],
+  "odette": [
+    {
+      "id": "odette_stellar_support_build",
+      "name": "Stellar Support Build",
+      "role": "Stellar Support / Enabler",
+      "recommended": true,
+      "sets": [
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "odette_best_stellar_support_build",
+      "name": "Best Stellar Support Build",
+      "role": "Stellar Support / Off-Field <element type=\"cryo\">Cryo</element> Sub-DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "disenchantment_in_deep_shadow"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "ororon": [
+    {
+      "id": "ororon_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "prune": [
+    {
+      "id": "prune_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "celestial_gift"
+        ],
+        [
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "qiqi": [
+    {
+      "id": "qiqi_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "15healingbonus_set",
+          "18atk_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "ATK%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "ATK%",
+        "Energy Recharge",
+        "ATK",
+        "CRIT Rate",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "raiden_shogun": [
+    {
+      "id": "raiden_shogun_hyperbloom",
+      "name": "HYPERBLOOM",
+      "role": "HYPERBLOOM",
+      "recommended": false,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "raiden_shogun_dps_energy_support",
+      "name": "DPS & ENERGY SUPPORT",
+      "role": "DPS & ENERGY SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "thundering_fury",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "razor": [
+    {
+      "id": "razor_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "thundering_fury"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "18atk_set",
+          "thundering_fury"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    },
+    {
+      "id": "razor_hyperbloom_reaction_dps",
+      "name": "HYPERBLOOM / REACTION DPS",
+      "role": "HYPERBLOOM / REACTION DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "thundering_fury"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "Energy Recharge",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    }
+  ],
+  "rosaria": [
+    {
+      "id": "rosaria_reverse_melt",
+      "name": "REVERSE\nMELT",
+      "role": "REVERSE\nMELT",
+      "recommended": true,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "15_cryo_dmg_set",
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "rosaria_freeze",
+      "name": "FREEZE",
+      "role": "FREEZE",
+      "recommended": true,
+      "sets": [
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "15_cryo_dmg_set",
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "rosaria_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "sandrone": [
+    {
+      "id": "sandrone_dps_build",
+      "name": "DPS Build",
+      "role": "Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "sandrone_sandrone_dps_build",
+      "name": "Sandrone DPS Build",
+      "role": "Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "sandrone_stellarconduct_build",
+      "name": "Stellar-Conduct Build",
+      "role": "Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "sangonomiya_kokomi": [
+    {
+      "id": "sangonomiya_kokomi_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "maiden_beloved"
+        ],
+        [
+          "15healingbonus_set",
+          "20hp_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "ATK%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "sangonomiya_kokomi_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "heart_of_depth"
+        ],
+        [
+          "15healingbonus_set",
+          "15hydrodmg_set",
+          "20hp_set"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "Energy Recharge",
+        "ATK%",
+        "HP",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    },
+    {
+      "id": "sangonomiya_kokomi_bloom_dps",
+      "name": "BLOOM DPS",
+      "role": "BLOOM DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "oceanhued_clam"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "Energy Recharge",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "sayu": [
+    {
+      "id": "sayu_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "15healingbonus_set"
+        ],
+        [
+          "oceanhued_clam"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "ATK%",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "sethos": [
+    {
+      "id": "sethos_normal_attack_dps",
+      "name": "NORMAL ATTACK DPS",
+      "role": "NORMAL ATTACK DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "thundering_fury",
+          "80elementalmastery_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Normal Attack",
+        "Skill"
+      ]
+    }
+  ],
+  "shenhe": [
+    {
+      "id": "shenhe_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "18atk_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "shikanoin_heizou": [
+    {
+      "id": "shikanoin_heizou_anemo_dps",
+      "name": "ANEMO DPS",
+      "role": "ANEMO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "golden_troupe",
+          "15anemodmg_set"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "15anemodmg_set",
+          "golden_troupe",
+          "18atk_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    },
+    {
+      "id": "shikanoin_heizou_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "noblesse_oblige"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "ATK%",
+        "Energy Recharge",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Normal Attack",
+        "Burst"
+      ]
+    }
+  ],
+  "sigewinne": [
+    {
+      "id": "sigewinne_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "tenacity_of_the_millelith",
+          "vourukashas_glow"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "skirk": [
+    {
+      "id": "skirk_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "finale_of_the_deep_galleries"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "gladiators_finale"
+        ],
+        [
+          "15_cryo_dmg_set",
+          "18atk_set",
+          "marechaussee_hunter"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "sucrose": [
+    {
+      "id": "sucrose_em_support",
+      "name": "EM SUPPORT",
+      "role": "EM SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "tartaglia": [
+    {
+      "id": "tartaglia_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "nymphs_dream"
+        ],
+        [
+          "heart_of_depth"
+        ],
+        [
+          "15hydrodmg_set",
+          "18atk_set"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set",
+          "18atk_set"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "thoma": [
+    {
+      "id": "thoma_burgeon",
+      "name": "BURGEON",
+      "role": "BURGEON",
+      "recommended": true,
+      "sets": [
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "HP%",
+        "HP",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "thoma_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "tenacity_of_the_millelith",
+          "emblem_of_severed_fate",
+          "vourukashas_glow"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "tighnari": [
+    {
+      "id": "tighnari_quick_swap_dps",
+      "name": "QUICK SWAP DPS",
+      "role": "QUICK SWAP DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "deepwood_memories",
+          "80elementalmastery_set",
+          "18atk_set"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "traveler_anemo": [
+    {
+      "id": "traveler_anemo_anemo_dps",
+      "name": "ANEMO DPS",
+      "role": "ANEMO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "15anemodmg_set",
+          "80elementalmastery_set",
+          "noblesse_oblige",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery",
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery",
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Elemental Mastery",
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "traveler_cryo": [
+    {
+      "id": "traveler_cryo_stellar_glimmer_dps",
+      "name": "Stellar Glimmer DPS",
+      "role": "Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "scarlet_proof"
+        ],
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "gambler"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "traveler_cryo_stellar_glimmer_dps_build",
+      "name": "Stellar Glimmer DPS Build",
+      "role": "Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "disenchantment_in_deep_shadow"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "heart_of_the_furnace"
+        ],
+        [
+          "gambler"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "traveler_dendro": [
+    {
+      "id": "traveler_dendro_reaction_support",
+      "name": "REACTION SUPPORT",
+      "role": "REACTION SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "the_exile"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus",
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "traveler_electro": [
+    {
+      "id": "traveler_electro_energy_support",
+      "name": "ENERGY SUPPORT",
+      "role": "ENERGY SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "20energyrecharge_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "traveler_geo": [
+    {
+      "id": "traveler_geo_geo_dps",
+      "name": "GEO DPS",
+      "role": "GEO DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "nighttime_whispers_in_the_echoing_woods"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "archaic_petra",
+          "noblesse_oblige",
+          "18atk_set",
+          "emblem_of_severed_fate",
+          "golden_troupe"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "traveler_hydro": [
+    {
+      "id": "traveler_hydro_support",
+      "name": "SUPPORT",
+      "role": "SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "instructor"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "traveler_hydro_onfield_dps",
+      "name": "ON-FIELD DPS",
+      "role": "ON-FIELD DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "15hydrodmg_set",
+          "golden_troupe",
+          "emblem_of_severed_fate",
+          "18atk_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "HP%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "traveler_pyro": [
+    {
+      "id": "traveler_pyro_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "20energyrecharge_set",
+          "20energyrecharge_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "traveler_pyro_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "obsidian_codex"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "varesa": [
+    {
+      "id": "varesa_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "long_nights_oath"
+        ],
+        [
+          "obsidian_codex"
+        ],
+        [
+          "long_nights_oath",
+          "thundering_fury",
+          "18atk_set"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "varka": [
+    {
+      "id": "varka_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "gladiators_finale"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Leveling Varka to Level 90 is the next best investment after Skill Talent levels.",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "venti": [
+    {
+      "id": "venti_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "venti_onfield_dps",
+      "name": "ON-FIELD DPS",
+      "role": "ON-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "viridescent_venerer"
+        ]
+      ],
+      "stats": {
+        "circlet": [],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "vesna": [
+    {
+      "id": "vesna_best_stellarswirl_dps_build",
+      "name": "Best Stellar-Swirl DPS Build",
+      "role": "Stellar-Swirl Main DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "scarlet_proof"
+        ],
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "gladiators_finale",
+          "a_day_carved_from_rising_winds"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT DMG",
+        "CRIT Rate",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "vodyanitsa": [
+    {
+      "id": "vodyanitsa_hydro_support_build",
+      "name": "Hydro Support Build",
+      "role": "<element type=\"hydro\">Hydro</element> support / healer / RES shredder",
+      "recommended": true,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "tenacity_of_the_millelith",
+          "vourukashas_glow"
+        ],
+        [
+          "song_of_days_past"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "wanderer": [
+    {
+      "id": "wanderer_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "15anemodmg_set",
+          "15anemodmg_set",
+          "18atk_set",
+          "18atk_set"
+        ],
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "lavawalker"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "ATK",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "wriothesley": [
+    {
+      "id": "wriothesley_melt_dps",
+      "name": "MELT DPS",
+      "role": "MELT DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "Crit DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    },
+    {
+      "id": "wriothesley_mono_cryo_freeze_dps",
+      "name": "MONO CRYO / FREEZE DPS",
+      "role": "MONO CRYO / FREEZE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "blizzard_strayer"
+        ],
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "blizzard_strayer",
+          "18atk_set",
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "Crit DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "xiangling": [
+    {
+      "id": "xiangling_offfield_vaporize_dps",
+      "name": "OFF-FIELD VAPORIZE DPS",
+      "role": "OFF-FIELD VAPORIZE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "noblesse_oblige",
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "deepwood_memories"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "xianyun": [
+    {
+      "id": "xianyun_high_energy_requirement_buff_heal_support",
+      "name": "HIGH ENERGY REQUIREMENT\n\nBUFF & HEAL SUPPORT",
+      "role": "HIGH ENERGY REQUIREMENT\n\nBUFF & HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "song_of_days_past"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "18atk_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "ATK%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "ATK"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "xiao": [
+    {
+      "id": "xiao_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "marechaussee_hunter"
+        ],
+        [
+          "vermillion_hereafter"
+        ],
+        [
+          "long_nights_oath"
+        ],
+        [
+          "desert_pavilion_chronicle"
+        ],
+        [
+          "long_nights_oath",
+          "and_15_anemo_dmg_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Anemo DMG Bonus",
+          "ATK%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    }
+  ],
+  "xilonen": [
+    {
+      "id": "xilonen_buff_heal_support",
+      "name": "BUFF & HEAL SUPPORT",
+      "role": "BUFF & HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "archaic_petra"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "instructor"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "DEF%",
+          "Healing Bonus",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "DEF%",
+        "DEF",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "xingqiu": [
+    {
+      "id": "xingqiu_high_energy_requirement_offfield_dps",
+      "name": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)",
+      "role": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "nymphs_dream"
+        ],
+        [
+          "a_day_carved_from_rising_winds"
+        ],
+        [
+          "noblesse_oblige",
+          "15hydrodmg_set",
+          "18atk_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "blizzard_strayer"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "xinyan": [
+    {
+      "id": "xinyan_physical_dps",
+      "name": "PHYSICAL DPS",
+      "role": "PHYSICAL DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "pale_flame",
+          "bloodstained_chivalry"
+        ],
+        [
+          "pale_flame"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "25physicaldmg_set"
+        ],
+        [
+          "25physicaldmg_set",
+          "18atk_set",
+          "noblesse_oblige",
+          "husk_of_opulent_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Physical DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "xinyan_pyro_dps",
+      "name": "PYRO DPS",
+      "role": "PYRO DPS",
+      "recommended": false,
+      "sets": [
+        [
+          "lavawalker"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "crimson_witch_of_flames"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "18atk_set"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "noblesse_oblige"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "retracing_bolide"
+        ],
+        [
+          "husk_of_opulent_dreams",
+          "crimson_witch_of_flames"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "DEF%"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    },
+    {
+      "id": "xinyan_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "husk_of_opulent_dreams"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "DEF%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "ATK%",
+        "DEF%",
+        "CRIT Rate",
+        "CRIT DMG"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yae_miko": [
+    {
+      "id": "yae_miko_offfield_dps",
+      "name": "OFF-FIELD DPS",
+      "role": "OFF-FIELD DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "golden_troupe"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "18atk_set",
+          "thundering_fury",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "yae_miko_offfield_aggravate_dps",
+      "name": "OFF-FIELD AGGRAVATE DPS",
+      "role": "OFF-FIELD AGGRAVATE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "gilded_dreams"
+        ],
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "golden_troupe"
+        ],
+        [
+          "thundering_fury",
+          "80elementalmastery_set",
+          "18atk_set",
+          "golden_troupe",
+          "noblesse_oblige"
+        ],
+        [
+          "thundersoother"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Electro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "Elemental Mastery",
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yanfei": [
+    {
+      "id": "yanfei_vaporize_dps",
+      "name": "VAPORIZE DPS",
+      "role": "VAPORIZE DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "wanderers_troupe"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Burst",
+        "Skill"
+      ]
+    },
+    {
+      "id": "yanfei_shield_support_c4_required",
+      "name": "SHIELD SUPPORT \n[C4+ REQUIRED]",
+      "role": "SHIELD SUPPORT \n[C4+ REQUIRED]",
+      "recommended": false,
+      "sets": [
+        [
+          "emblem_of_severed_fate",
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "HP"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yaoyao": [
+    {
+      "id": "yaoyao_heal_support",
+      "name": "HEAL SUPPORT",
+      "role": "HEAL SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "deepwood_memories"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "oceanhued_clam"
+        ],
+        [
+          "maiden_beloved"
+        ],
+        [
+          "15healingbonus_set",
+          "20hp_set",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "flower_of_paradise_lost"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "80elementalmastery_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Healing Bonus"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yelan": [
+    {
+      "id": "yelan_high_energy_requirement_offfield_dps",
+      "name": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)",
+      "role": "HIGH ENERGY REQUIREMENT\n(OFF-FIELD DPS)",
+      "recommended": true,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "emblem_of_severed_fate",
+          "20hp_set",
+          "15hydrodmg_set",
+          "noblesse_oblige"
+        ],
+        [
+          "marechaussee_hunter"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG",
+          "HP%"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Hydro DMG Bonus",
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Energy Recharge",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "HP%",
+        "CRIT Rate",
+        "CRIT DMG",
+        "HP"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yoimiya": [
+    {
+      "id": "yoimiya_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "shimenawas_reminiscence"
+        ],
+        [
+          "crimson_witch_of_flames"
+        ],
+        [
+          "gilded_dreams"
+        ],
+        [
+          "echoes_of_an_offering"
+        ],
+        [
+          "crimson_witch_of_flames",
+          "18atk_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "Elemental Mastery"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "Elemental Mastery",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Normal Attack",
+        "Skill",
+        "Burst"
+      ]
+    }
+  ],
+  "yumemizuki_mizuki": [
+    {
+      "id": "yumemizuki_mizuki_reaction_dps",
+      "name": "REACTION DPS",
+      "role": "REACTION DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "viridescent_venerer"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "Elemental Mastery"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Elemental Mastery"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "Energy Recharge",
+        "Elemental Mastery",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "yun_jin": [
+    {
+      "id": "yun_jin_buff_support",
+      "name": "BUFF SUPPORT",
+      "role": "BUFF SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "husk_of_opulent_dreams",
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "DEF%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%",
+          "Energy Recharge"
+        ]
+      },
+      "stats_priority": [
+        "DEF%",
+        "Energy Recharge",
+        "DEF",
+        "CRIT Rate"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "zhongli": [
+    {
+      "id": "zhongli_shield_support",
+      "name": "SHIELD SUPPORT",
+      "role": "SHIELD SUPPORT",
+      "recommended": true,
+      "sets": [
+        [
+          "archaic_petra"
+        ],
+        [
+          "scroll_of_the_hero_of_cinder_city"
+        ],
+        [
+          "deepwood_memories"
+        ],
+        [
+          "instructor"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ],
+        [
+          "vourukashas_glow",
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "HP%",
+          "CRIT Rate"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "HP%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "HP%",
+        "HP",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    },
+    {
+      "id": "zhongli_burst_support",
+      "name": "BURST SUPPORT",
+      "role": "BURST SUPPORT",
+      "recommended": false,
+      "sets": [
+        [
+          "emblem_of_severed_fate"
+        ],
+        [
+          "noblesse_oblige",
+          "archaic_petra"
+        ],
+        [
+          "noblesse_oblige"
+        ],
+        [
+          "tenacity_of_the_millelith"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "Geo DMG Bonus"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "ATK%",
+          "HP%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "ATK%",
+        "HP%",
+        "Energy Recharge"
+      ],
+      "talent_priority": [
+        "Burst",
+        "Skill",
+        "Normal Attack"
+      ]
+    }
+  ],
+  "zibai": [
+    {
+      "id": "zibai_dps",
+      "name": "DPS",
+      "role": "DPS",
+      "recommended": true,
+      "sets": [
+        [
+          "night_of_the_skys_unveiling"
+        ],
+        [
+          "husk_of_opulent_dreams"
+        ],
+        [
+          "30_def_set",
+          "80elementalmastery_set"
+        ]
+      ],
+      "stats": {
+        "circlet": [
+          "CRIT Rate",
+          "CRIT DMG"
+        ],
+        "flower": [
+          "HP"
+        ],
+        "goblet": [
+          "DEF%"
+        ],
+        "plume": [
+          "ATK"
+        ],
+        "sands": [
+          "DEF%"
+        ]
+      },
+      "stats_priority": [
+        "CRIT Rate",
+        "CRIT DMG",
+        "DEF%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "talent_priority": [
+        "Skill",
+        "Burst",
+        "Normal Attack"
+      ]
+    }
+  ]
+}

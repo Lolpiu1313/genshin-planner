@@ -1,0 +1,3803 @@
+[
+  {
+    "id": 5200,
+    "name": "Domain of Blessing: Autumn Hunt I",
+    "entrance": "Momiji-Dyed Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400178,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 4
+      },
+      {
+        "id": 400183,
+        "name": "Emblem of Severed Fate",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5201,
+    "name": "Domain of Blessing: Autumn Hunt II",
+    "entrance": "Momiji-Dyed Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400178,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 4
+      },
+      {
+        "id": 400183,
+        "name": "Emblem of Severed Fate",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5202,
+    "name": "Domain of Blessing: Autumn Hunt III",
+    "entrance": "Momiji-Dyed Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400179,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 5
+      },
+      {
+        "id": 400184,
+        "name": "Emblem of Severed Fate",
+        "rarity": 5
+      },
+      {
+        "id": 400178,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 4
+      },
+      {
+        "id": 400183,
+        "name": "Emblem of Severed Fate",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5203,
+    "name": "Domain of Blessing: Autumn Hunt IV",
+    "entrance": "Momiji-Dyed Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400179,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 5
+      },
+      {
+        "id": 400184,
+        "name": "Emblem of Severed Fate",
+        "rarity": 5
+      },
+      {
+        "id": 400178,
+        "name": "Shimenawa's Reminiscence",
+        "rarity": 4
+      },
+      {
+        "id": 400183,
+        "name": "Emblem of Severed Fate",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4484,
+    "name": "Domain of Blessing: Crumbling Assembly I",
+    "entrance": "Waterfall Wen",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400280,
+        "name": "Song of Days Past",
+        "rarity": 4
+      },
+      {
+        "id": 400290,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4485,
+    "name": "Domain of Blessing: Crumbling Assembly II",
+    "entrance": "Waterfall Wen",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400280,
+        "name": "Song of Days Past",
+        "rarity": 4
+      },
+      {
+        "id": 400290,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4486,
+    "name": "Domain of Blessing: Crumbling Assembly III",
+    "entrance": "Waterfall Wen",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400281,
+        "name": "Song of Days Past",
+        "rarity": 5
+      },
+      {
+        "id": 400291,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 5
+      },
+      {
+        "id": 400280,
+        "name": "Song of Days Past",
+        "rarity": 4
+      },
+      {
+        "id": 400290,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4487,
+    "name": "Domain of Blessing: Crumbling Assembly IV",
+    "entrance": "Waterfall Wen",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400281,
+        "name": "Song of Days Past",
+        "rarity": 5
+      },
+      {
+        "id": 400291,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 5
+      },
+      {
+        "id": 400280,
+        "name": "Song of Days Past",
+        "rarity": 4
+      },
+      {
+        "id": 400290,
+        "name": "Nighttime Whispers in the Echoing Woods",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5008,
+    "name": "Domain of Blessing: Dance of Steel I",
+    "entrance": "Valley of Remembrance",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400062,
+        "name": "Traveling Doctor",
+        "rarity": 3
+      },
+      {
+        "id": 400061,
+        "name": "Traveling Doctor",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": 5009,
+    "name": "Domain of Blessing: Dance of Steel II",
+    "entrance": "Valley of Remembrance",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400093,
+        "name": "Viridescent Venerer",
+        "rarity": 4
+      },
+      {
+        "id": 400083,
+        "name": "Maiden Beloved",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400062,
+        "name": "Traveling Doctor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5010,
+    "name": "Domain of Blessing: Dance of Steel III",
+    "entrance": "Valley of Remembrance",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400093,
+        "name": "Viridescent Venerer",
+        "rarity": 4
+      },
+      {
+        "id": 400083,
+        "name": "Maiden Beloved",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400062,
+        "name": "Traveling Doctor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5011,
+    "name": "Domain of Blessing: Dance of Steel IV",
+    "entrance": "Valley of Remembrance",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400094,
+        "name": "Viridescent Venerer",
+        "rarity": 5
+      },
+      {
+        "id": 400084,
+        "name": "Maiden Beloved",
+        "rarity": 5
+      },
+      {
+        "id": 400093,
+        "name": "Viridescent Venerer",
+        "rarity": 4
+      },
+      {
+        "id": 400083,
+        "name": "Maiden Beloved",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400062,
+        "name": "Traveling Doctor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5012,
+    "name": "Domain of Blessing: Dance of Steel V",
+    "entrance": "Valley of Remembrance",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400094,
+        "name": "Viridescent Venerer",
+        "rarity": 5
+      },
+      {
+        "id": 400084,
+        "name": "Maiden Beloved",
+        "rarity": 5
+      },
+      {
+        "id": 400093,
+        "name": "Viridescent Venerer",
+        "rarity": 4
+      },
+      {
+        "id": 400083,
+        "name": "Maiden Beloved",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400062,
+        "name": "Traveling Doctor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5022,
+    "name": "Domain of Blessing: Deepfire Construct I",
+    "entrance": "Derelict Masonry Dock",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400340,
+        "name": "Long Night's Oath",
+        "rarity": 4
+      },
+      {
+        "id": 400350,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5023,
+    "name": "Domain of Blessing: Deepfire Construct II",
+    "entrance": "Derelict Masonry Dock",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400340,
+        "name": "Long Night's Oath",
+        "rarity": 4
+      },
+      {
+        "id": 400350,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5024,
+    "name": "Domain of Blessing: Deepfire Construct III",
+    "entrance": "Derelict Masonry Dock",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400341,
+        "name": "Long Night's Oath",
+        "rarity": 5
+      },
+      {
+        "id": 400351,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 5
+      },
+      {
+        "id": 400340,
+        "name": "Long Night's Oath",
+        "rarity": 4
+      },
+      {
+        "id": 400350,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5025,
+    "name": "Domain of Blessing: Deepfire Construct IV",
+    "entrance": "Derelict Masonry Dock",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400341,
+        "name": "Long Night's Oath",
+        "rarity": 5
+      },
+      {
+        "id": 400351,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 5
+      },
+      {
+        "id": 400340,
+        "name": "Long Night's Oath",
+        "rarity": 4
+      },
+      {
+        "id": 400350,
+        "name": "Finale of the Deep Galleries",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4665,
+    "name": "Domain of Blessing: Derivations From the Deep I",
+    "entrance": "Frostladen Machinery",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400360,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 4
+      },
+      {
+        "id": 400370,
+        "name": "Silken Moon's Serenade",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4666,
+    "name": "Domain of Blessing: Derivations From the Deep II",
+    "entrance": "Frostladen Machinery",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400360,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 4
+      },
+      {
+        "id": 400370,
+        "name": "Silken Moon's Serenade",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4667,
+    "name": "Domain of Blessing: Derivations From the Deep III",
+    "entrance": "Frostladen Machinery",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400361,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 5
+      },
+      {
+        "id": 400371,
+        "name": "Silken Moon's Serenade",
+        "rarity": 5
+      },
+      {
+        "id": 400360,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 4
+      },
+      {
+        "id": 400370,
+        "name": "Silken Moon's Serenade",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4668,
+    "name": "Domain of Blessing: Derivations From the Deep IV",
+    "entrance": "Frostladen Machinery",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400361,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 5
+      },
+      {
+        "id": 400371,
+        "name": "Silken Moon's Serenade",
+        "rarity": 5
+      },
+      {
+        "id": 400360,
+        "name": "Night of the Sky's Unveiling",
+        "rarity": 4
+      },
+      {
+        "id": 400370,
+        "name": "Silken Moon's Serenade",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5060,
+    "name": "Domain of Blessing: Desert Citadel I",
+    "entrance": "City of Gold",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400220,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 4
+      },
+      {
+        "id": 400230,
+        "name": "Flower of Paradise Lost",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5061,
+    "name": "Domain of Blessing: Desert Citadel II",
+    "entrance": "City of Gold",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400220,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 4
+      },
+      {
+        "id": 400230,
+        "name": "Flower of Paradise Lost",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5062,
+    "name": "Domain of Blessing: Desert Citadel III",
+    "entrance": "City of Gold",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400221,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 5
+      },
+      {
+        "id": 400231,
+        "name": "Flower of Paradise Lost",
+        "rarity": 5
+      },
+      {
+        "id": 400220,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 4
+      },
+      {
+        "id": 400230,
+        "name": "Flower of Paradise Lost",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5063,
+    "name": "Domain of Blessing: Desert Citadel IV",
+    "entrance": "City of Gold",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400221,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 5
+      },
+      {
+        "id": 400231,
+        "name": "Flower of Paradise Lost",
+        "rarity": 5
+      },
+      {
+        "id": 400220,
+        "name": "Desert Pavilion Chronicle",
+        "rarity": 4
+      },
+      {
+        "id": 400230,
+        "name": "Flower of Paradise Lost",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5120,
+    "name": "Domain of Blessing: Elegiac Rime I",
+    "entrance": "Peak of Vindagnyr",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400068,
+        "name": "Blizzard Strayer",
+        "rarity": 4
+      },
+      {
+        "id": 400163,
+        "name": "Heart of Depth",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5121,
+    "name": "Domain of Blessing: Elegiac Rime II",
+    "entrance": "Peak of Vindagnyr",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400068,
+        "name": "Blizzard Strayer",
+        "rarity": 4
+      },
+      {
+        "id": 400163,
+        "name": "Heart of Depth",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5122,
+    "name": "Domain of Blessing: Elegiac Rime III",
+    "entrance": "Peak of Vindagnyr",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400069,
+        "name": "Blizzard Strayer",
+        "rarity": 5
+      },
+      {
+        "id": 400164,
+        "name": "Heart of Depth",
+        "rarity": 5
+      },
+      {
+        "id": 400068,
+        "name": "Blizzard Strayer",
+        "rarity": 4
+      },
+      {
+        "id": 400163,
+        "name": "Heart of Depth",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5123,
+    "name": "Domain of Blessing: Elegiac Rime IV",
+    "entrance": "Peak of Vindagnyr",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400069,
+        "name": "Blizzard Strayer",
+        "rarity": 5
+      },
+      {
+        "id": 400164,
+        "name": "Heart of Depth",
+        "rarity": 5
+      },
+      {
+        "id": 400068,
+        "name": "Blizzard Strayer",
+        "rarity": 4
+      },
+      {
+        "id": 400163,
+        "name": "Heart of Depth",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5001,
+    "name": "Domain of Blessing: Fires of Purification I",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      },
+      {
+        "id": 400046,
+        "name": "Adventurer",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": 5002,
+    "name": "Domain of Blessing: Fires of Purification II",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      },
+      {
+        "id": 400046,
+        "name": "Adventurer",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": 5003,
+    "name": "Domain of Blessing: Fires of Purification III",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400108,
+        "name": "Thundering Fury",
+        "rarity": 4
+      },
+      {
+        "id": 400073,
+        "name": "Thundersoother",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5004,
+    "name": "Domain of Blessing: Fires of Purification IV",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400108,
+        "name": "Thundering Fury",
+        "rarity": 4
+      },
+      {
+        "id": 400073,
+        "name": "Thundersoother",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5005,
+    "name": "Domain of Blessing: Fires of Purification V",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400109,
+        "name": "Thundering Fury",
+        "rarity": 5
+      },
+      {
+        "id": 400074,
+        "name": "Thundersoother",
+        "rarity": 5
+      },
+      {
+        "id": 400108,
+        "name": "Thundering Fury",
+        "rarity": 4
+      },
+      {
+        "id": 400073,
+        "name": "Thundersoother",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5006,
+    "name": "Domain of Blessing: Fires of Purification VI",
+    "entrance": "Midsummer Courtyard",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400109,
+        "name": "Thundering Fury",
+        "rarity": 5
+      },
+      {
+        "id": 400074,
+        "name": "Thundersoother",
+        "rarity": 5
+      },
+      {
+        "id": 400108,
+        "name": "Thundering Fury",
+        "rarity": 4
+      },
+      {
+        "id": 400073,
+        "name": "Thundersoother",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400047,
+        "name": "Adventurer",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4687,
+    "name": "Domain of Blessing: Flower Feast I",
+    "entrance": "Thorny Crown of the Mountain Wind",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400400,
+        "name": "Celestial Gift",
+        "rarity": 4
+      },
+      {
+        "id": 400410,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 4
+      },
+      {
+        "id": 400023,
+        "name": "Berserker",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400022,
+        "name": "Berserker",
+        "rarity": 3
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4688,
+    "name": "Domain of Blessing: Flower Feast II",
+    "entrance": "Thorny Crown of the Mountain Wind",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400400,
+        "name": "Celestial Gift",
+        "rarity": 4
+      },
+      {
+        "id": 400410,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 4
+      },
+      {
+        "id": 400023,
+        "name": "Berserker",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400022,
+        "name": "Berserker",
+        "rarity": 3
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4689,
+    "name": "Domain of Blessing: Flower Feast III",
+    "entrance": "Thorny Crown of the Mountain Wind",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400401,
+        "name": "Celestial Gift",
+        "rarity": 5
+      },
+      {
+        "id": 400411,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 5
+      },
+      {
+        "id": 400400,
+        "name": "Celestial Gift",
+        "rarity": 4
+      },
+      {
+        "id": 400410,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 4
+      },
+      {
+        "id": 400023,
+        "name": "Berserker",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400022,
+        "name": "Berserker",
+        "rarity": 3
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4690,
+    "name": "Domain of Blessing: Flower Feast IV",
+    "entrance": "Thorny Crown of the Mountain Wind",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400401,
+        "name": "Celestial Gift",
+        "rarity": 5
+      },
+      {
+        "id": 400411,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 5
+      },
+      {
+        "id": 400400,
+        "name": "Celestial Gift",
+        "rarity": 4
+      },
+      {
+        "id": 400410,
+        "name": "Disenchantment in Deep Shadow",
+        "rarity": 4
+      },
+      {
+        "id": 400023,
+        "name": "Berserker",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400022,
+        "name": "Berserker",
+        "rarity": 3
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5064,
+    "name": "Domain of Blessing: Forsaken Rampart I",
+    "entrance": "Molten Iron Fortress",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400240,
+        "name": "Nymph's Dream",
+        "rarity": 4
+      },
+      {
+        "id": 400250,
+        "name": "Vourukasha's Glow",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5065,
+    "name": "Domain of Blessing: Forsaken Rampart II",
+    "entrance": "Molten Iron Fortress",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400240,
+        "name": "Nymph's Dream",
+        "rarity": 4
+      },
+      {
+        "id": 400250,
+        "name": "Vourukasha's Glow",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5066,
+    "name": "Domain of Blessing: Forsaken Rampart III",
+    "entrance": "Molten Iron Fortress",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400241,
+        "name": "Nymph's Dream",
+        "rarity": 5
+      },
+      {
+        "id": 400251,
+        "name": "Vourukasha's Glow",
+        "rarity": 5
+      },
+      {
+        "id": 400240,
+        "name": "Nymph's Dream",
+        "rarity": 4
+      },
+      {
+        "id": 400250,
+        "name": "Vourukasha's Glow",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5067,
+    "name": "Domain of Blessing: Forsaken Rampart IV",
+    "entrance": "Molten Iron Fortress",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400241,
+        "name": "Nymph's Dream",
+        "rarity": 5
+      },
+      {
+        "id": 400251,
+        "name": "Vourukasha's Glow",
+        "rarity": 5
+      },
+      {
+        "id": 400240,
+        "name": "Nymph's Dream",
+        "rarity": 4
+      },
+      {
+        "id": 400250,
+        "name": "Vourukasha's Glow",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4480,
+    "name": "Domain of Blessing: Harmony I",
+    "entrance": "Denouement of Sin",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400260,
+        "name": "Marechaussee Hunter",
+        "rarity": 4
+      },
+      {
+        "id": 400270,
+        "name": "Golden Troupe",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4481,
+    "name": "Domain of Blessing: Harmony II",
+    "entrance": "Denouement of Sin",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400260,
+        "name": "Marechaussee Hunter",
+        "rarity": 4
+      },
+      {
+        "id": 400270,
+        "name": "Golden Troupe",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4482,
+    "name": "Domain of Blessing: Harmony III",
+    "entrance": "Denouement of Sin",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400261,
+        "name": "Marechaussee Hunter",
+        "rarity": 5
+      },
+      {
+        "id": 400271,
+        "name": "Golden Troupe",
+        "rarity": 5
+      },
+      {
+        "id": 400260,
+        "name": "Marechaussee Hunter",
+        "rarity": 4
+      },
+      {
+        "id": 400270,
+        "name": "Golden Troupe",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4483,
+    "name": "Domain of Blessing: Harmony IV",
+    "entrance": "Denouement of Sin",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400261,
+        "name": "Marechaussee Hunter",
+        "rarity": 5
+      },
+      {
+        "id": 400271,
+        "name": "Golden Troupe",
+        "rarity": 5
+      },
+      {
+        "id": 400260,
+        "name": "Marechaussee Hunter",
+        "rarity": 4
+      },
+      {
+        "id": 400270,
+        "name": "Golden Troupe",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4703,
+    "name": "Domain of Blessing: Ice Erosion I",
+    "entrance": "Inverted Glacier",
+    "region": "Snezhnaya",
+    "rewards": [
+      {
+        "id": 400420,
+        "name": "Scarlet Proof",
+        "rarity": 4
+      },
+      {
+        "id": 400430,
+        "name": "Heart of the Furnace",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4704,
+    "name": "Domain of Blessing: Ice Erosion II",
+    "entrance": "Inverted Glacier",
+    "region": "Snezhnaya",
+    "rewards": [
+      {
+        "id": 400420,
+        "name": "Scarlet Proof",
+        "rarity": 4
+      },
+      {
+        "id": 400430,
+        "name": "Heart of the Furnace",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4705,
+    "name": "Domain of Blessing: Ice Erosion III",
+    "entrance": "Inverted Glacier",
+    "region": "Snezhnaya",
+    "rewards": [
+      {
+        "id": 400421,
+        "name": "Scarlet Proof",
+        "rarity": 5
+      },
+      {
+        "id": 400431,
+        "name": "Heart of the Furnace",
+        "rarity": 5
+      },
+      {
+        "id": 400420,
+        "name": "Scarlet Proof",
+        "rarity": 4
+      },
+      {
+        "id": 400430,
+        "name": "Heart of the Furnace",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4706,
+    "name": "Domain of Blessing: Ice Erosion IV",
+    "entrance": "Inverted Glacier",
+    "region": "Snezhnaya",
+    "rewards": [
+      {
+        "id": 400421,
+        "name": "Scarlet Proof",
+        "rarity": 5
+      },
+      {
+        "id": 400431,
+        "name": "Heart of the Furnace",
+        "rarity": 5
+      },
+      {
+        "id": 400420,
+        "name": "Scarlet Proof",
+        "rarity": 4
+      },
+      {
+        "id": 400430,
+        "name": "Heart of the Furnace",
+        "rarity": 4
+      },
+      {
+        "id": 400043,
+        "name": "The Exile",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400042,
+        "name": "The Exile",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5125,
+    "name": "Domain of Blessing: Machine Nest I",
+    "entrance": "The Lost Valley",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400198,
+        "name": "Vermillion Hereafter",
+        "rarity": 4
+      },
+      {
+        "id": 400203,
+        "name": "Echoes of an Offering",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5126,
+    "name": "Domain of Blessing: Machine Nest II",
+    "entrance": "The Lost Valley",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400198,
+        "name": "Vermillion Hereafter",
+        "rarity": 4
+      },
+      {
+        "id": 400203,
+        "name": "Echoes of an Offering",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5127,
+    "name": "Domain of Blessing: Machine Nest III",
+    "entrance": "The Lost Valley",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400199,
+        "name": "Vermillion Hereafter",
+        "rarity": 5
+      },
+      {
+        "id": 400204,
+        "name": "Echoes of an Offering",
+        "rarity": 5
+      },
+      {
+        "id": 400198,
+        "name": "Vermillion Hereafter",
+        "rarity": 4
+      },
+      {
+        "id": 400203,
+        "name": "Echoes of an Offering",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5128,
+    "name": "Domain of Blessing: Machine Nest IV",
+    "entrance": "The Lost Valley",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400199,
+        "name": "Vermillion Hereafter",
+        "rarity": 5
+      },
+      {
+        "id": 400204,
+        "name": "Echoes of an Offering",
+        "rarity": 5
+      },
+      {
+        "id": 400198,
+        "name": "Vermillion Hereafter",
+        "rarity": 4
+      },
+      {
+        "id": 400203,
+        "name": "Echoes of an Offering",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5204,
+    "name": "Domain of Blessing: Necropolis I",
+    "entrance": "Slumbering Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400188,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400193,
+        "name": "Ocean-Hued Clam",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5205,
+    "name": "Domain of Blessing: Necropolis II",
+    "entrance": "Slumbering Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400188,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400193,
+        "name": "Ocean-Hued Clam",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5206,
+    "name": "Domain of Blessing: Necropolis III",
+    "entrance": "Slumbering Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400189,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 5
+      },
+      {
+        "id": 400194,
+        "name": "Ocean-Hued Clam",
+        "rarity": 5
+      },
+      {
+        "id": 400188,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400193,
+        "name": "Ocean-Hued Clam",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5207,
+    "name": "Domain of Blessing: Necropolis IV",
+    "entrance": "Slumbering Court",
+    "region": "Inazuma",
+    "rewards": [
+      {
+        "id": 400189,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 5
+      },
+      {
+        "id": 400194,
+        "name": "Ocean-Hued Clam",
+        "rarity": 5
+      },
+      {
+        "id": 400188,
+        "name": "Husk of Opulent Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400193,
+        "name": "Ocean-Hued Clam",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5107,
+    "name": "Domain of Blessing: Roaring Fire I",
+    "entrance": "Hidden Palace of Zhou Formula",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400113,
+        "name": "Crimson Witch of Flames",
+        "rarity": 4
+      },
+      {
+        "id": 400078,
+        "name": "Lavawalker",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5108,
+    "name": "Domain of Blessing: Roaring Fire II",
+    "entrance": "Hidden Palace of Zhou Formula",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400113,
+        "name": "Crimson Witch of Flames",
+        "rarity": 4
+      },
+      {
+        "id": 400078,
+        "name": "Lavawalker",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5109,
+    "name": "Domain of Blessing: Roaring Fire III",
+    "entrance": "Hidden Palace of Zhou Formula",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400114,
+        "name": "Crimson Witch of Flames",
+        "rarity": 5
+      },
+      {
+        "id": 400079,
+        "name": "Lavawalker",
+        "rarity": 5
+      },
+      {
+        "id": 400113,
+        "name": "Crimson Witch of Flames",
+        "rarity": 4
+      },
+      {
+        "id": 400078,
+        "name": "Lavawalker",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5110,
+    "name": "Domain of Blessing: Roaring Fire IV",
+    "entrance": "Hidden Palace of Zhou Formula",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400114,
+        "name": "Crimson Witch of Flames",
+        "rarity": 5
+      },
+      {
+        "id": 400079,
+        "name": "Lavawalker",
+        "rarity": 5
+      },
+      {
+        "id": 400113,
+        "name": "Crimson Witch of Flames",
+        "rarity": 4
+      },
+      {
+        "id": 400078,
+        "name": "Lavawalker",
+        "rarity": 4
+      },
+      {
+        "id": 400013,
+        "name": "Defender's Will",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400012,
+        "name": "Defender's Will",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4683,
+    "name": "Domain of Blessing: Sacred Vault I",
+    "entrance": "Moonchild's Treasures",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400380,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 4
+      },
+      {
+        "id": 400390,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400033,
+        "name": "Instructor",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400032,
+        "name": "Instructor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4684,
+    "name": "Domain of Blessing: Sacred Vault II",
+    "entrance": "Moonchild's Treasures",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400380,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 4
+      },
+      {
+        "id": 400390,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400033,
+        "name": "Instructor",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400032,
+        "name": "Instructor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4685,
+    "name": "Domain of Blessing: Sacred Vault III",
+    "entrance": "Moonchild's Treasures",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400381,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 5
+      },
+      {
+        "id": 400391,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 5
+      },
+      {
+        "id": 400380,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 4
+      },
+      {
+        "id": 400390,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400033,
+        "name": "Instructor",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400032,
+        "name": "Instructor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4686,
+    "name": "Domain of Blessing: Sacred Vault IV",
+    "entrance": "Moonchild's Treasures",
+    "region": "Nod-Krai",
+    "rewards": [
+      {
+        "id": 400381,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 5
+      },
+      {
+        "id": 400391,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 5
+      },
+      {
+        "id": 400380,
+        "name": "Aubade of Morningstar and Moon",
+        "rarity": 4
+      },
+      {
+        "id": 400390,
+        "name": "A Day Carved From Rising Winds",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400033,
+        "name": "Instructor",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400032,
+        "name": "Instructor",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5050,
+    "name": "Domain of Blessing: Seven Senses I",
+    "entrance": "Spire of Solitary Enlightenment",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400208,
+        "name": "Deepwood Memories",
+        "rarity": 4
+      },
+      {
+        "id": 400213,
+        "name": "Gilded Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5051,
+    "name": "Domain of Blessing: Seven Senses II",
+    "entrance": "Spire of Solitary Enlightenment",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400208,
+        "name": "Deepwood Memories",
+        "rarity": 4
+      },
+      {
+        "id": 400213,
+        "name": "Gilded Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5052,
+    "name": "Domain of Blessing: Seven Senses III",
+    "entrance": "Spire of Solitary Enlightenment",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400209,
+        "name": "Deepwood Memories",
+        "rarity": 5
+      },
+      {
+        "id": 400214,
+        "name": "Gilded Dreams",
+        "rarity": 5
+      },
+      {
+        "id": 400208,
+        "name": "Deepwood Memories",
+        "rarity": 4
+      },
+      {
+        "id": 400213,
+        "name": "Gilded Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5053,
+    "name": "Domain of Blessing: Seven Senses IV",
+    "entrance": "Spire of Solitary Enlightenment",
+    "region": "Sumeru",
+    "rewards": [
+      {
+        "id": 400209,
+        "name": "Deepwood Memories",
+        "rarity": 5
+      },
+      {
+        "id": 400214,
+        "name": "Gilded Dreams",
+        "rarity": 5
+      },
+      {
+        "id": 400208,
+        "name": "Deepwood Memories",
+        "rarity": 4
+      },
+      {
+        "id": 400213,
+        "name": "Gilded Dreams",
+        "rarity": 4
+      },
+      {
+        "id": 400018,
+        "name": "Tiny Miracle",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400017,
+        "name": "Tiny Miracle",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5100,
+    "name": "Domain of Blessing: Spring I",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      },
+      {
+        "id": 400051,
+        "name": "Lucky Dog",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": 5101,
+    "name": "Domain of Blessing: Spring II",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      },
+      {
+        "id": 400051,
+        "name": "Lucky Dog",
+        "rarity": 2
+      }
+    ]
+  },
+  {
+    "id": 5102,
+    "name": "Domain of Blessing: Spring III",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400153,
+        "name": "Archaic Petra",
+        "rarity": 4
+      },
+      {
+        "id": 400158,
+        "name": "Retracing Bolide",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5103,
+    "name": "Domain of Blessing: Spring IV",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400153,
+        "name": "Archaic Petra",
+        "rarity": 4
+      },
+      {
+        "id": 400158,
+        "name": "Retracing Bolide",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5104,
+    "name": "Domain of Blessing: Spring V",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400154,
+        "name": "Archaic Petra",
+        "rarity": 5
+      },
+      {
+        "id": 400159,
+        "name": "Retracing Bolide",
+        "rarity": 5
+      },
+      {
+        "id": 400153,
+        "name": "Archaic Petra",
+        "rarity": 4
+      },
+      {
+        "id": 400158,
+        "name": "Retracing Bolide",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5105,
+    "name": "Domain of Blessing: Spring VI",
+    "entrance": "Domain of Guyun",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400154,
+        "name": "Archaic Petra",
+        "rarity": 5
+      },
+      {
+        "id": 400159,
+        "name": "Retracing Bolide",
+        "rarity": 5
+      },
+      {
+        "id": 400153,
+        "name": "Archaic Petra",
+        "rarity": 4
+      },
+      {
+        "id": 400158,
+        "name": "Retracing Bolide",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400052,
+        "name": "Lucky Dog",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5112,
+    "name": "Domain of Blessing: Stone Chamber I",
+    "entrance": "Clear Pool and Mountain Cavern",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400123,
+        "name": "Bloodstained Chivalry",
+        "rarity": 4
+      },
+      {
+        "id": 400118,
+        "name": "Noblesse Oblige",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5113,
+    "name": "Domain of Blessing: Stone Chamber II",
+    "entrance": "Clear Pool and Mountain Cavern",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400124,
+        "name": "Bloodstained Chivalry",
+        "rarity": 5
+      },
+      {
+        "id": 400119,
+        "name": "Noblesse Oblige",
+        "rarity": 5
+      },
+      {
+        "id": 400123,
+        "name": "Bloodstained Chivalry",
+        "rarity": 4
+      },
+      {
+        "id": 400118,
+        "name": "Noblesse Oblige",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5114,
+    "name": "Domain of Blessing: Stone Chamber III",
+    "entrance": "Clear Pool and Mountain Cavern",
+    "region": "Liyue",
+    "rewards": [
+      {
+        "id": 400124,
+        "name": "Bloodstained Chivalry",
+        "rarity": 5
+      },
+      {
+        "id": 400119,
+        "name": "Noblesse Oblige",
+        "rarity": 5
+      },
+      {
+        "id": 400123,
+        "name": "Bloodstained Chivalry",
+        "rarity": 4
+      },
+      {
+        "id": 400118,
+        "name": "Noblesse Oblige",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5018,
+    "name": "Domain of Blessing: The Burning Gauntlet I",
+    "entrance": "Sanctum of Rainbow Spirits",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400320,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 4
+      },
+      {
+        "id": 400330,
+        "name": "Obsidian Codex",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5019,
+    "name": "Domain of Blessing: The Burning Gauntlet II",
+    "entrance": "Sanctum of Rainbow Spirits",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400320,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 4
+      },
+      {
+        "id": 400330,
+        "name": "Obsidian Codex",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5020,
+    "name": "Domain of Blessing: The Burning Gauntlet III",
+    "entrance": "Sanctum of Rainbow Spirits",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400321,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 5
+      },
+      {
+        "id": 400331,
+        "name": "Obsidian Codex",
+        "rarity": 5
+      },
+      {
+        "id": 400320,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 4
+      },
+      {
+        "id": 400330,
+        "name": "Obsidian Codex",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5021,
+    "name": "Domain of Blessing: The Burning Gauntlet IV",
+    "entrance": "Sanctum of Rainbow Spirits",
+    "region": "Natlan",
+    "rewards": [
+      {
+        "id": 400321,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 5
+      },
+      {
+        "id": 400331,
+        "name": "Obsidian Codex",
+        "rarity": 5
+      },
+      {
+        "id": 400320,
+        "name": "Scroll of the Hero of Cinder City",
+        "rarity": 4
+      },
+      {
+        "id": 400330,
+        "name": "Obsidian Codex",
+        "rarity": 4
+      },
+      {
+        "id": 400003,
+        "name": "Resolution of Sojourner",
+        "rarity": 4
+      },
+      {
+        "id": 400038,
+        "name": "Gambler",
+        "rarity": 4
+      },
+      {
+        "id": 400002,
+        "name": "Resolution of Sojourner",
+        "rarity": 3
+      },
+      {
+        "id": 400037,
+        "name": "Gambler",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5014,
+    "name": "Domain of Blessing: Unyielding I",
+    "entrance": "Ridge Watch",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400168,
+        "name": "Tenacity of the Millelith",
+        "rarity": 4
+      },
+      {
+        "id": 400173,
+        "name": "Pale Flame",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5015,
+    "name": "Domain of Blessing: Unyielding II",
+    "entrance": "Ridge Watch",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400168,
+        "name": "Tenacity of the Millelith",
+        "rarity": 4
+      },
+      {
+        "id": 400173,
+        "name": "Pale Flame",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5016,
+    "name": "Domain of Blessing: Unyielding III",
+    "entrance": "Ridge Watch",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400169,
+        "name": "Tenacity of the Millelith",
+        "rarity": 5
+      },
+      {
+        "id": 400174,
+        "name": "Pale Flame",
+        "rarity": 5
+      },
+      {
+        "id": 400168,
+        "name": "Tenacity of the Millelith",
+        "rarity": 4
+      },
+      {
+        "id": 400173,
+        "name": "Pale Flame",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 5017,
+    "name": "Domain of Blessing: Unyielding IV",
+    "entrance": "Ridge Watch",
+    "region": "Mondstadt",
+    "rewards": [
+      {
+        "id": 400169,
+        "name": "Tenacity of the Millelith",
+        "rarity": 5
+      },
+      {
+        "id": 400174,
+        "name": "Pale Flame",
+        "rarity": 5
+      },
+      {
+        "id": 400168,
+        "name": "Tenacity of the Millelith",
+        "rarity": 4
+      },
+      {
+        "id": 400173,
+        "name": "Pale Flame",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400028,
+        "name": "Martial Artist",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400027,
+        "name": "Martial Artist",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4510,
+    "name": "Domain of Blessing: Variation I",
+    "entrance": "Faded Theater",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400300,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 4
+      },
+      {
+        "id": 400310,
+        "name": "Unfinished Reverie",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4511,
+    "name": "Domain of Blessing: Variation II",
+    "entrance": "Faded Theater",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400300,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 4
+      },
+      {
+        "id": 400310,
+        "name": "Unfinished Reverie",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4512,
+    "name": "Domain of Blessing: Variation III",
+    "entrance": "Faded Theater",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400301,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 5
+      },
+      {
+        "id": 400311,
+        "name": "Unfinished Reverie",
+        "rarity": 5
+      },
+      {
+        "id": 400300,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 4
+      },
+      {
+        "id": 400310,
+        "name": "Unfinished Reverie",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  },
+  {
+    "id": 4513,
+    "name": "Domain of Blessing: Variation IV",
+    "entrance": "Faded Theater",
+    "region": "Fontaine",
+    "rewards": [
+      {
+        "id": 400301,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 5
+      },
+      {
+        "id": 400311,
+        "name": "Unfinished Reverie",
+        "rarity": 5
+      },
+      {
+        "id": 400300,
+        "name": "Fragment of Harmonic Whimsy",
+        "rarity": 4
+      },
+      {
+        "id": 400310,
+        "name": "Unfinished Reverie",
+        "rarity": 4
+      },
+      {
+        "id": 400008,
+        "name": "Brave Heart",
+        "rarity": 4
+      },
+      {
+        "id": 400058,
+        "name": "Scholar",
+        "rarity": 4
+      },
+      {
+        "id": 400007,
+        "name": "Brave Heart",
+        "rarity": 3
+      },
+      {
+        "id": 400057,
+        "name": "Scholar",
+        "rarity": 3
+      }
+    ]
+  }
+]
